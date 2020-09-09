@@ -5,8 +5,9 @@ Acer TravelMate P645-SG Hackintosh EFI
 :-:|:-:
 CPU|Intel Core i5 5500U Broadwell
 GPU|Intel HD5500
-SSD1|建兴L8T 128G mSATA接口(原装)
+SSD1|建兴L8T 256G mSATA接口(原装)
 SSD2|三星 / 接口（加装）
+RAM|12 GB
 网卡|换装DW1560
 
 完美程度95%
